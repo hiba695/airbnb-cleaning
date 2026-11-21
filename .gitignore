@@ -1,0 +1,11 @@
+# Data files (bade hote hain)
+*.csv
+*.xlsx
+
+# Jupyter and Python kachra
+.ipynb_checkpoints/
+__pycache__/
+
+# Secrets
+.env
+kaggle.jsons
